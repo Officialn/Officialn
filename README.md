@@ -1,6 +1,6 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
 ![Nizam_banner](https://scontent-lga3-2.xx.fbcdn.net/v/t31.18172-8/25074983_693913174137705_6454733025733339959_o.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6FS4j1p3oVUAX9a-DZ3&tn=GfVR0YlzxoQqLA8_&_nc_ht=scontent-lga3-2.xx&oh=00_AfC9grV7FmWVYQiJIkQ5_LJ67gUM82_1IvPht1PbHAUmUg&oe=64003A90)
-<h1 align="center">Hi <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">, I'm Nizam Moh</h1>
+<h1 align="center">Hi🌐<br>I'm Nizam Moh</br></h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia<b>🇪🇹</b></h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
 
