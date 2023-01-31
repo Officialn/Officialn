@@ -1,5 +1,5 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![Nizam_banner](https://scontent.fadd1-1.fna.fbcdn.net/v/t31.18172…nmucoHlqeHHeY0bvmlYLECV7YJrOczIP5ySnQ&oe=640072D0)
+![Nizam_banner](https://scontent.fadd1-1.fna.fbcdn.net/v/t31.18172…1SxYecJCT7ApO69Ikd6Y5XkOaf8TO99XrSgPw&oe=6400AB10)
 <h1 align="center">Hi🌐<br><em>I'm Nizam</em></br></h1>
 <h3 align="center">Active Software Engineer from Ethiopia<b>🇪🇹</b></h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
