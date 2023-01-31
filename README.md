@@ -1,5 +1,5 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![Nizam_banner]("https://scontent-lga3-2.xx.fbcdn.net/v/t31.18172-8/25074983_693913174137705_6454733025733339959_o.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6FS4j1p3oVUAX9a-DZ3&tn=GfVR0YlzxoQqLA8_&_nc_ht=scontent-lga3-2.xx&oh=00_AfDNDAJ36gP9fSAsHnXHmJ-KiTCj5YbLOPuvNNvn_w_crg&oe=640072D0)
+![Nizam_banner](https://scontent-lga3-2.xx.fbcdn.net/v/t31.18172-8…gP9fSAsHnXHmJ-KiTCj5YbLOPuvNNvn_w_crg&oe=640072D0)
 <h1 align="center">Hi <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">, I'm Nizam Moh</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
@@ -40,21 +40,3 @@
 
 <p align="center"> <a href="https://twitter.com/mr-nizam" target="blank"><img src="https://img.shields.io/twitter/follow/Nizam-Moh?logo=twitter&style=for-the-badge" alt="Nizam-Moh" /></a> </p>
 
-## My Github Stats:
-
-<table>
-  <tr>
-    <td>
-       <a href="https://github.com/Officialn"><img alt="Nizam Moh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Officialn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-       <a href="http://www.github.com/Officialn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Officialn&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/Officialn"><img alt="Nizam Moh Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Officialnx&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  </tr>
-</table>
-
-
--->
