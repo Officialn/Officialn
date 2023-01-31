@@ -38,5 +38,5 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://instagram.com/nizam_huh" target="blank"><img src="https://img.shields.io/instagram/follow/Nizam_huh?logo=instagram&style=for-the-badge" alt="Nizam_huh" /></a> </p>
+<p align="center"> <a href="https://instagram.com/nizam_huh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/social/instagram.svg" alt="Nizam_huh" /></a> </p>
 
