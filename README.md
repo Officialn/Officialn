@@ -1,5 +1,5 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![Nizam_banner](https://www.imagesplatform.com/mohsin_site/uploads…7K/wishing-ramadan-mubarak-dp-with-name-nizam.jpg)
+![Nizam_banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-qan-KRMLk5dVku_qqt3rpYS9MUdUY4oqA&usqp=CAU)
 <h1 align="center">Hi🌐<br><em>I'm Nizam</em></br></h1>
 <h3 align="center">Active Software Engineer from Ethiopia<b>🇪🇹</b></h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
