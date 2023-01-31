@@ -38,5 +38,5 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://instagram.com/nizam_huh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/social/instagram.svg" alt="Nizam_huh" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Officialn" alt="Nizam Moh" /></a> </p>-->
 
