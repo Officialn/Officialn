@@ -38,6 +38,6 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://instagram.com/nizam_huh" target="blank"><img src="https://img.shields.io/instagram/follow/Nizam-Moh?logo=instagram&style=for-the-badge" alt="Nizam-Moh" /></a> </p>
+<p align="center"> <a href="https://instagram.com/nizam_huh" target="blank"><img src="https://www.sbmarketingtools.com/wp-content/uploads/2022/08/alexander-shatov-71Qk8ODIBko-unsplash.jpg alt="Nizam-Moh" /></a> </p>
 
 
