@@ -38,6 +38,6 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://twitter.com/NizamMoh2" target="blank"><img src="https://img.shields.io/twitter/follow/Nizam-Moh?logo=twitter&style=for-the-badge" alt="Nizam-Moh" /></a> </p>
+<p align="center"> <a href="https://instagram.com/nizam_huh" target="blank"><img src="https://img.shields.io/instagram/follow/Nizam-Moh?logo=instagram&style=for-the-badge" alt="Nizam-Moh" /></a> </p>
 
 
